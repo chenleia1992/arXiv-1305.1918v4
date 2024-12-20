@@ -1,0 +1,160 @@
+\begin{thebibliography}{}
+
+\bibitem[Abramowitz and Stegun, 1965]{Abramowitz}
+Abramowitz, M. and Stegun, I. (1965).
+\newblock {\em Handbook of Mathematical Functions}.
+\newblock Dover Publications, Mineola, NY.
+
+\bibitem[Bain and Crisan, 2009]{bainCrisan}
+Bain, A. and Crisan, D. (2009).
+\newblock {\em Fundamentals of Stochastic Filtering}.
+\newblock Springer, New York, NY.
+
+\bibitem[Bensoussan and Blankenship, 1986]{BensoussanBlankenship1986}
+Bensoussan, A. and Blankenship, G.~L. (1986).
+\newblock Nonlinear filtering with homogenization.
+\newblock {\em Stochastics}, 17:67--90.
+
+\bibitem[Bensoussan et~al., 1978]{BLP}
+Bensoussan, A., Lions, J., and Papanicolaou, G. (1978).
+\newblock {\em Asymptotic Analysis for Periodic Structures}, volume~5 of {\em
+  Studies in Mathematics and its Applications}.
+\newblock North-Holland Publishing Co., Amsterdam.
+
+\bibitem[Billingsley, 1968]{Billingsley}
+Billingsley, P. (1968).
+\newblock {\em Convergence of Probability Measures}.
+\newblock New York, J. Willey.
+
+\bibitem[Boyd, 1984]{boyd1984}
+Boyd, J. (1984).
+\newblock Asymptotic coefficients of {H}ermite function series.
+\newblock {\em Journal of Computational Physics}, 54:382--410.
+
+\bibitem[Boyd, 2000]{boyd2000}
+Boyd, J. (2000).
+\newblock {\em {C}hebyshev and {F}ourier Spectral Methods}.
+\newblock Dover Publications, inc., Mineola, New York, 2nd edition.
+
+\bibitem[Brogaard et~al., 2012]{hendershot}
+Brogaard, J., Hendershott, T.~J., and Riordan, R. (2012).
+\newblock {High Frequency Trading and Price Discovery}.
+\newblock Technical report, Berkeley University.
+
+\bibitem[Capp{\'e} et~al., 2005]{CMR2005}
+Capp{\'e}, O., Moulines, E., and Ryden, T. (2005).
+\newblock {\em Inference in Hidden Markov Models (Springer Series in
+  Statistics)}.
+\newblock Springer-Verlag New York, Inc., Secaucus, NJ, USA.
+
+\bibitem[{Del Moral} et~al., 2001]{delMoral2001}
+{Del Moral}, P., Jacod, J., and Protter, P. (2001).
+\newblock The {M}onte-{C}arlo method for filtering with discrete-time
+  observations.
+\newblock {\em Probability Theory and Related Fields}, 120:346 to 368.
+
+\bibitem[Ethier and Kurtz, 1986]{EthierKurtz1986}
+Ethier, S. and Kurtz, T. (1986).
+\newblock {\em {M}arkov Processes: Characterization and Convergence}.
+\newblock Wiley, Hoboken, NJ.
+
+\bibitem[Ichihara, 2004]{Ichihara2004}
+Ichihara, N. (2004).
+\newblock Homogenization problem for stochastic partial differential equations
+  of zakai type.
+\newblock {\em Stochastics and Stochastics Reports}, 76:243--266.
+
+\bibitem[Imkeller et~al., 2013]{ImkellerSriPerkowskiYeong2012}
+Imkeller, P., Namachchivaya, N.~S., Perkowski, N., and Yeong, H.~C. (2013).
+\newblock Dimensional reduction in nonlinear filtering: a homogenization
+  approach.
+\newblock {\em Annals of Applied Probability}, 23(6):2290--2326.
+
+\bibitem[James and Gland, 1995]{JamesGland1995}
+James, M.~R. and Gland, F.~L. (1995).
+\newblock Consistent parameter estimation for partially observed diffusions
+  with small noise.
+\newblock {\em Applied Mathematics and Optimization}, 32:47--72.
+
+\bibitem[Kallianpur, 1980]{Kallianpur}
+Kallianpur, G. (1980).
+\newblock {\em Stochastic Filtering Theory}.
+\newblock Springer, Berlin.
+
+\bibitem[Karatzas and Shreve, 1991]{KaratzasShreve}
+Karatzas, I. and Shreve, S.~E. (1991).
+\newblock {\em Brownian Motion and Stochastic Calculus}.
+\newblock Springer, New York, NY, 2nd edition.
+
+\bibitem[Kleptsina et~al., 1997]{KleptsinaLiptserSerebrovski1997}
+Kleptsina, M.~L., Liptser, R.~S., and Serebrovski, A. (1997).
+\newblock Nonlinear filtering problem with contamination.
+\newblock {\em Annals of Applied Probability}, 7:917--934.
+
+\bibitem[Kushner, 1990]{Kushner}
+Kushner, H.~J. (1990).
+\newblock {\em Weak Convergence Methods and Singularly Perturbed Stochastic
+  Control and Filtering Problems}.
+\newblock Birkh\"{a}user, Boston-Basel-Berlin.
+
+\bibitem[Kutoyants, 2004]{Kutoyants}
+Kutoyants, Y. (2004).
+\newblock {\em Statistical Inference for Ergodic Diffusion Processes}.
+\newblock Springer, London.
+
+\bibitem[Liberzon and Brockett, 2000]{LiberzonBrockett}
+Liberzon, D. and Brockett, R. (2000).
+\newblock Spectral analysis of fokker-planck and related operators arising from
+  linear stochastic differential equations.
+\newblock {\em SIAM J. Control Optimization}, 38(5):1453--1467.
+
+\bibitem[Linetsky, 2007]{linetskyBook}
+Linetsky, V. (2007).
+\newblock Spectral methods in derivative pricing.
+\newblock In {\em Handbooks in Operations Research and Management Science:
+  Financial Engineering}, volume~15, chapter~6, pages 223--299. Elsevier B.V.
+
+\bibitem[Papavasiliou et~al., 2009]{PapavasileiouPaviotisStuart2009}
+Papavasiliou, A., Pavliotis, G., and Stuart, A. (2009).
+\newblock Maximum likelihood drift estimation for multiscale diffusions.
+\newblock {\em Stochastic Processes and their Applications}, 119:3173--3210.
+
+\bibitem[Pardoux and Veretennikov, 2003]{PardouxVeretennikov2}
+Pardoux, E. and Veretennikov, A. (2003).
+\newblock On {P}oisson equation and diffusion approximation ii.
+\newblock {\em Annals of Probability}, 31(3):1066--1092.
+
+\bibitem[Park et~al., 2011]{ParkRozovskySowers2010}
+Park, J., Rozovsky, B., and Sowers, R. (2011).
+\newblock Efficient nonlinear filtering of a singularly perturbed stochastic
+  hybrid system.
+\newblock {\em LMS J. Computational Mathematics}, 14:254--270.
+
+\bibitem[Park et~al., 2008]{ParkSriSowers2008}
+Park, J., Sowers, R., and Namachchivaya, N.~S. (2008).
+\newblock A problem in stochastic averaging of nonlinear filters.
+\newblock {\em Stochastics and Dynamics}, 8:543--560.
+
+\bibitem[Park et~al., 2010]{ParkSriSowers2011}
+Park, J., Sowers, R., and Namachchivaya, N.~S. (2010).
+\newblock Dimensional reduction in nonlinear filtering.
+\newblock {\em Nonlinearity}, 23:305--324.
+
+\bibitem[Rozovskii, 1990]{Rozovskii}
+Rozovskii, L. (1990).
+\newblock {\em Stochastic Evolution System: Linear Theory and Aplications to
+  Non-linear Filtering}.
+\newblock Kluwer Academic Publishers, Dordrecht.
+
+\bibitem[Rozovsky, 1991]{rozovsky1992}
+Rozovsky, B. (1991).
+\newblock A simple proof of uniqueness for {K}ushner and {Z}akai equations.
+\newblock In Mayer-Wolf, E., editor, {\em Stochastic analysis}, pages 449--458.
+  Boston: Academic Press.
+
+\bibitem[Zhang, 2010]{zhang}
+Zhang, F. (2010).
+\newblock {High-Frequency Trading, Stock Volatility, and Price Discovery}.
+\newblock {\em SSRN eLibrary}.
+
+\end{thebibliography}
